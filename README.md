@@ -1,5 +1,4 @@
 Hello Git and GitHub
-Hello Git and GitHub
 # Git Cheat Sheet
 
 ## Commands
